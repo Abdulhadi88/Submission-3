@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Submission2</string>
+
+    <string name="movtab"> Film </string>
+    <string name="tvtab"> Acara Tv </string>
+
+
+<!--    ini database film-->
+    <string name="spider_man">"Spider-Man: Into the Spider-Verse"</string>
+    <string name="desc_spider_man">Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi pria laba-laba. Ketika Wilson Kingpin Fisk menggunakan collider super, yang lain dari seberang Spider Verse diangkut ke dimensi ini</string>
+
+    <string name="BigHero_6">"Big Hero 6"</string>
+    <string name="desc_bighero_6">Ikatan khusus yang berkembang antara robot tiup Baymax plus-ukuran, dan Hiro Hamada yang luar biasa, yang bekerja sama dengan sekelompok teman untuk membentuk sekelompok pahlawan teknologi tinggi.</string>
+
+    <string name="i_want_to_eat_your_pankreas">"I Want to Eat Your Pancreas"</string>
+    <string name="desc_pankreas">Waktu musim semi di bulan April dan bunga sakura yang terakhir masih mekar. Kutu buku yang biasanya menyendiri tanpa minat pada orang lain menemukan sebuah buku di ruang tunggu rumah sakit. Tulisan tangan di sampulnya bertuliskan: "Living with Dying." Dia segera menemukan bahwa itu adalah buku harian yang disimpan oleh teman sekelasnya yang sangat populer dan benar-benar ceria, Sakura Yamauchi, yang mengungkapkan kepadanya bahwa dia diam-diam menderita penyakit pankreas dan hanya memiliki waktu yang tersisa. Pada saat inilah dia mendapatkan hanya satu orang lagi untuk berbagi rahasianya. Berusaha mempertahankan kehidupan yang normal sebanyak mungkin, Sakura bertekad untuk menjalani hidupnya sepenuhnya sampai hari terakhir. Saat semangat bebasnya dan tindakan tak terduga membuat pria itu berulang kali, hatinya mulai berubah secara bertahap.</string>
+
+    <string name="kimi_no_nawa">"Your Name"</string>
+    <string name="desc_kimi_no_nawa">Siswa sekolah menengah, Mitsuha dan Taki adalah orang asing yang benar-benar hidup dalam kehidupan yang terpisah. Tapi suatu malam, mereka tiba-tiba berganti tempat. Mitsuha bangun di tubuh Taki, dan dia di tubuhnya. Kejadian aneh ini terus terjadi secara acak, dan keduanya harus menyesuaikan hidup mereka satu sama lain.</string>
+
+    <string name="tenki_no_ko">"Weathering With You"</string>
+    <string name="desc_tenki_no_ko">Siswa sekolah menengah Hodaka meninggalkan rumahnya di pulau terpencil dan pindah ke Tokyo, tetapi dia langsung bangkrut. Dia menjalani hari-harinya dalam isolasi, tetapi akhirnya menemukan pekerjaan sebagai penulis untuk majalah okultisme yang teduh. Setelah dia memulai pekerjaannya, cuaca telah berhujan dari hari ke hari. Di sudut kota yang ramai dan sibuk, Hodaka bertemu dengan seorang wanita muda bernama Hina. Karena keadaan tertentu, Hina dan adik laki-lakinya hidup bersama, tetapi memiliki kehidupan yang ceria dan kokoh. Hina juga memiliki kekuatan tertentu: kekuatan untuk menghentikan hujan dan membersihkan langit.</string>
+
+    <string name="naruto">"The Last: Naruto the Movie"</string>
+    <string name="desc_naruto">beberapa tahun setelah peristiwa Perang Ninja Besar Keempat, bulan yang Hagoromo Otsutsuki ciptakan sejak lama untuk menyegel Patung Gedo mulai turun ke dunia, mengancam untuk menjadi meteor yang akan menghancurkan segala sesuatu yang terkena dampak. Di tengah krisis ini, keturunan langsung Kaguya Otsutsuki bernama Toneri Otsutsuki mencoba untuk menculik Hinata Hyuga tetapi akhirnya menculik adik perempuannya Hanabi. Naruto dan sekutunya sekarang melakukan misi penyelamatan sebelum menemukan diri mereka terlibat dalam pertempuran terakhir untuk menentukan nasib segalanya.</string>
+
+    <string name="boruto">"Boruto: Naruto the Movie"</string>
+    <string name="desc_boruto">Boruto adalah putra dari Hokage 7 Naruto yang sepenuhnya menolak ayahnya. Di belakang ini, ia memiliki perasaan ingin melampaui Naruto, yang dihormati sebagai pahlawan. Dia akhirnya bertemu teman ayahnya Sasuke, dan meminta untuk menjadi. muridnya !? Tirai pada kisah generasi baru yang ditulis oleh Masashi Kishimoto muncul</string>
+
+    <string name="frozen_ii">Frozen 2</string>
+    <string name="desc_frozen">Elsa, Anna, Kristoff dan Olaf pergi jauh ke hutan untuk mempelajari kebenaran tentang misteri kuno kerajaan mereka.</string>
+
+    <string name="ralph">Ralph Breaks the Internet</string>
+    <string name="desc_ralph">Penjahat video game, Ralph dan rekan-rekannya yang tidak sesuai, Vanellope von Schweetz harus mengambil risiko dengan melakukan perjalanan ke World Wide Web untuk mencari bagian pengganti untuk menyelamatkan video game Vanellopes, "Sugar Rush." Di atas kepala mereka, Ralph dan Vanellope mengandalkan warga internet - netizens - untuk membantu menavigasi jalan mereka, termasuk seorang pengusaha bernama Yesss, yang merupakan algoritma kepala dan jantung dan jiwa dari situs pembuat tren BuzzzTube .</string>
+
+    <string name="httyd">How to Train Your Dragon: The Hidden World</string>
+    <string name="desc_httyd">Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless dari pasangan yang liar dan sulit ditangkap menarik Night Fury pergi. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.</string>
+
+    <string name="spiderman">Spider-Man: Into the Spider-Verse</string>
+    <string name="desc_spderman">Miles Morales menyulap hidupnya antara menjadi siswa sekolah menengah dan menjadi manusia laba-laba. Ketika Wilson "Kingpin" Fisk menggunakan collider super, yang lain dari seberang Spider-Verse diangkut ke dimensi ini.</string>
+
+    <string name="lego">The Lego Movie 2: The Second Part</string>
+    <string name="desc_lego">Sudah lima tahun sejak semuanya luar biasa dan warga menghadapi ancaman baru yang sangat besar: para penyerbu LEGO DUPLO dari luar angkasa, menghancurkan segalanya lebih cepat daripada yang bisa mereka bangun kembali.</string>
+
+
+<!--    ini database tv-->
+
+    <string name="kny">Demon Slayer: Kimetsu no Yaiba</string>
+    <string name="desc_kny">Ini adalah Periode Taisho di Jepang. Tanjiro, seorang anak lelaki baik hati yang menjual arang untuk mencari nafkah, menemukan keluarganya dibantai oleh iblis. Lebih buruk lagi, adik perempuannya Nezuko, satu-satunya yang selamat, telah berubah menjadi iblis sendiri. Meskipun hancur oleh kenyataan suram ini, Tanjiro memutuskan untuk menjadi "pembunuh iblis" sehingga ia dapat mengubah saudara perempuannya kembali menjadi manusia, dan membunuh iblis yang membantai keluarganya.</string>
+
+    <string name="one_punch">One-Punch Man</string>
+    <string name="desc_one_punch">Saitama adalah pahlawan yang hanya menjadi pahlawan untuk bersenang-senang. Namun, setelah tiga tahun pelatihan "istimewa", ia menjadi begitu kuat sehingga praktis tidak terkalahkan. Faktanya, dia terlalu kuat — bahkan lawan terkuatnya dikeluarkan dengan satu pukulan, dan ternyata menjadi sangat dahsyat sebenarnya agak membosankan. Dengan hasratnya untuk menjadi pahlawan yang hilang bersamaan dengan rambutnya, namun masih berhadapan dengan musuh baru setiap hari, berapa lama lagi dia bisa mempertahankannya?</string>
+
+    <string name="dragon">Dragon Ball</string>
+    <string name="desc_dragon">Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk Bola Naga mistis membawanya ke rumah Gokus. Bersama-sama, mereka berangkat untuk menemukan ketujuh dan mengabulkan keinginannya.</string>
+
+    <string name="narutosh">Naruto Shippūden</string>
+    <string name="desc_narutosh">Shippuuden adalah kelanjutan dari serial TV animasi asli Naruto. Kisah ini berkisah tentang Uzumaki Naruto yang lebih tua dan sedikit lebih matang dan upayanya untuk menyelamatkan temannya Uchiha Sasuke dari cengkeraman Shinobi seperti ular, Orochimaru. Setelah 2 setengah tahun, Naruto akhirnya kembali ke desanya Konoha, dan mulai membuat ambisinya untuk bekerja, meskipun itu tidak akan mudah, karena Ia telah mengumpulkan beberapa musuh (lebih berbahaya), seperti organisasi shinobi. ; Akatsuki./string></string>
+
+    <string name="fairy_tail">Fairy Tail</string>
+    <string name="desc_fairy_tail">Lucy adalah seorang gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan hanya anak biasa, dia anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail.</string>
+
+    <string name="gumbal">The Amazing World of Gumball</string>
+    <string name="desc_gumbal">Dia hidup dari Gumball Watterson, kucing berusia 12 tahun yang menghadiri sekolah menengah di Elmore. Ditemani oleh hewan peliharaannya, saudara angkatnya, dan sahabatnya Darwin Watterson, ia sering menemukan dirinya terlibat dalam berbagai kejahatan di sekitar kota, di mana ia berinteraksi dengan berbagai anggota keluarga: Anais, Richard, dan Nicole Watterson, dan berbagai warga lainnya.</string>
+
+    <string name="adventure">Adventure Time</string>
+    <string name="desc_adventure">Terhubung dengan Finn dan Jake saat mereka melakukan perjalanan di Tanah Ooo mencari petualangan. Tapi ingat, petualangan tidak selalu mudah. Kadang-kadang Anda harus memerangi gnome api yang menyiksa wanita tua, menyelamatkan putri hot dog yang bau dari Ice King, dan mencairkan sekelompok pengusaha beku. Apa kolnya ?!</string>
+
+    <string name="regular_show">Regular Show</string>
+    <string name="desc_regular_show">Dua penjaga taman yang bosan, Mordecai (jay biru setinggi enam kaki) dan Rigby (rakun hiperaktif) adalah teman terbaik yang menghabiskan hari-hari mereka dengan berusaha menghibur diri dengan segala cara yang diperlukan, banyak yang membuat bos mereka tidak senang. Pengejaran sehari-hari mereka sering mengarah pada hal-hal yang berputar di luar kendali dan menjadi nyata.</string>
+
+    <string name="gravity_falls">Gravity Falls</string>
+    <string name="desc_gravity_falls">Saudara kembar dan saudara kembar Dipper dan Mabel Pines berada dalam petualangan yang tak terduga ketika mereka menghabiskan musim panas membantu paman buyut mereka Stan menjebak turis di kota misterius Gravity Falls, Oregon.</string>
+
+    <string name="bnha">My Hero Academia</string>
+    <string name="desc_bnha">Di dunia di mana delapan puluh persen dari populasi memiliki semacam Quirk bertenaga super, Izuku cukup beruntung untuk dilahirkan sepenuhnya normal. Tapi itu tidak akan menghentikannya untuk mendaftar di akademi pahlawan bergengsi. Sekarang, dia akan merasakan persaingan brutal pertamanya dari sekolah-sekolah lain saat dia berani menghadapi ujian lisensi sementara yang kejam, tanpa larangan.</string>
+
+    <string name="phineas">Phineas and Ferb</string>
+    <string name="desc_phineas">Setiap hari, dua saudara tiri pinggiran kota yang baik hati dalam liburan musim panas memulai beberapa proyek besar baru, yang mengganggu adik perempuan mereka yang mengendalikan, Candace, yang mencoba menghancurkan mereka. Sementara itu, platipus peliharaan mereka merencanakan melawan Dr. Doofenshmirtz yang jahat.</string>
+
+</resources>
